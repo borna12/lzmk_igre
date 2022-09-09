@@ -184,7 +184,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=340"
             },{
-                question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobla 1946.?",
+                question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobila 1946.?",
                 answers: ["Hrvatski bog Mars", "Hrvatska rapsodija","Iz zapisa jednog ratnika","Na samrti"],
                 correctAnswer: "Hrvatski bog Mars",
                 slika: "slike/mars.jpg",
@@ -206,7 +206,7 @@ $(document).ready(function () {
                 answers: ["Zastave", "Poplava","Tri kavaljera frajle Melanije","Bobočka"],
                 correctAnswer: "Zastave",
                 slika: "slike/Zastave.jpg",
-                opis_slike:"Zgrada Leksikografskog zavoda Miroslav Krleža na Frankopanskoj ulici u Zagrebu",
+                opis_slike:"Naslovnica romana <em>Zastave</em> Miroslava Krleže.",
                 opis: "Zastave, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljenje tekstovni materijal prve knjige romana.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
