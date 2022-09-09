@@ -109,7 +109,9 @@ body::before {
 #opis {
     text-align: center
 }
-.opis{font-size: 18px}
+.swal2-content span{font-size: 24px;}
+figcaption{font-size: 16px; margin-top:10px}
+.opis{font-size: 18px;text-align: justify;}
 h1,
 h2,
 h3,
@@ -200,7 +202,7 @@ form {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
-
+a.center{font-size: 18px;}
 .questions-page__answer-list {
     padding: 0;
     list-style-type: none;

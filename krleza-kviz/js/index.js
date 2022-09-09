@@ -206,14 +206,14 @@ $(document).ready(function () {
                 answers: ["Zastave", "Poplava","Tri kavaljera frajle Melanije","Bobočka"],
                 correctAnswer: "Zastave",
                 slika: "slike/Zastave.jpg",
-                opis_slike:"",
+                opis_slike:"Zgrada Leksikografskog zavoda Miroslav Krleža na Frankopanskoj ulici u Zagrebu",
                 opis: "Zastave, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljenje tekstovni materijal prve knjige romana.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
                 question: "Koju je ustanovu utemlejio Kreleža 5. listopada 1950.?",
-                answers: ["Leksikografski zavod FNRJ", "","",""],
-                correctAnswer: "Leksikografski zavod FNRJ",
+                answers: ["Leksikografski zavod Miroslav Krleža", "Nacionalnu i sveučilišna knjižnicu","Društvo hrvatskih književnika","Hrvatsku akademiju znanosti i umjetnosti"],
+                correctAnswer: "Leksikografski zavod Miroslav Krleža",
                 slika: "slike/lzmk.jpg",
                 opis_slike:"",
                 opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. X. 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod institucionaliziran kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
@@ -254,8 +254,7 @@ $(document).ready(function () {
         } else {
             answerDivD.show()
         };
-        slikica.attr("src", quiz[questionCounter].slika)
-        slikica.attr("data-zoom-image", quiz[questionCounter].slika)
+        slikica.hide()
         $("#opis").html("<em>" + quiz[questionCounter].question + "</em>")
         $(".definicija").html(quiz[questionCounter].question)
         $(".vrijeme").html('<progress value="60" max="60" id="pageBeginCountdown"><span id="pageBeginCountdownText">60</p>')
@@ -282,7 +281,7 @@ $(document).ready(function () {
     };
     // Store the user's selected (clicked) answer
     getUserAnswer = function (target) {
-        userSelectedAnswer = $(target).find(answerSpan).text().toLowerCase();
+        userSelectedAnswer = $(target).find(answerSpan).text();
     };
     // Add the pointer to the clicked answer
     selectAnswer = function (target) {
@@ -386,7 +385,7 @@ $(document).ready(function () {
             bodovi -= 10;
             swal({
                 title: "Isteklo je vrijeme.",
-                html: "<p style='text-align:center'><strong>Točan odgovor je <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><em>" + quiz[questionCounter].opis + "</em><br><br><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/>",
+                html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                 showCloseButton: true,
                 confirmButtonText: ' dalje',
                 backdrop: false,
@@ -414,7 +413,7 @@ $(document).ready(function () {
                 broj = vrijeme + 10
                 swal({
                     title: "<span style='color:green'>Točno</span>",
-                    html: "+" + broj + "<br><em>" + quiz[questionCounter].opis + "</em><br><br><img src='" + quiz[questionCounter].slika + "'class='slikica2'/>",
+                    html: "<span>+" + broj + "</span><br><br><p class='opis'>" + quiz[questionCounter].opis + "</p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + "'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure></p>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,
@@ -438,7 +437,7 @@ $(document).ready(function () {
                 $("#krivo")[0].play();
                 swal({
                     title: " <span style='color:#bb422a' >Netočno</span>",
-                    html: "<p style='text-align:center'><strong>Točan odgovor je <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><em>" + quiz[questionCounter].opis + "</em><br><br><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/>",
+                    html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,
