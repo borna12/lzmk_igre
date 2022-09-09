@@ -157,7 +157,7 @@ $(document).ready(function () {
         resultsPage.hide();
         if (uglata == 1) {
             quiz = [{
-                question: "Koje godine je rođen Krleža?",
+                question: "Koje je godine rođen Miroslav Krleža?",
                 answers: ["1893.", "1892.","1891.","1890."],
                 correctAnswer: "1893.",
                 slika: "slike/roden.jpg",
@@ -166,7 +166,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             },{
-                question: "Koja zbirka pjesama od Miroslav Krleže objavljena 1936. godine u Ljubljani se smatra jednom od najvećih dijela hrvatske književnosti?",
+                question: "Koja se zbirka pjesama Miroslava Krleže objavljena 1936. godine u Ljubljani smatra jednom od najvećih djela hrvatske književnosti?",
                 answers: ["Balade Petrice Kerempuha", "Baraka pet be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
@@ -184,7 +184,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=340"
             },{
-                question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoj konačni redakcija dobila 1946.?",
+                question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobla 1946.?",
                 answers: ["Hrvatski bog Mars", "Hrvatska rapsodija","Iz zapisa jednog ratnika","Na samrti"],
                 correctAnswer: "Hrvatski bog Mars",
                 slika: "slike/mars.jpg",
@@ -193,7 +193,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=402"
             },{
-                question: "Koji roman iz 1932. smatra se prvim cjelovitim modernim romanom u hrvatskoj književnosti?",
+                question: "Koji se roman iz 1932. smatra  prvim cjelovitim modernim romanom u hrvatskoj književnosti?",
                 answers: ["Povratak Filipa Latinovicza", "Poplava","Tri kavaljera frajle Melanije","Gospoda Glembajevi"],
                 correctAnswer: "Povratak Filipa Latinovicza",
                 slika: "slike/filip.jpg",
@@ -211,8 +211,8 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
-                question: "Koju je ustanovu utemlejio Kreleža 5. listopada 1950.?",
-                answers: ["Leksikografski zavod Miroslav Krleža", "Nacionalnu i sveučilišna knjižnicu","Društvo hrvatskih književnika","Hrvatsku akademiju znanosti i umjetnosti"],
+                question: "Koju je ustanovu utemeljio Kreleža 5. listopada 1950.?",
+                answers: ["Leksikografski zavod Miroslav Krleža", "Nacionalnu i sveučilišnu knjižnicu","Društvo hrvatskih književnika","Hrvatsku akademiju znanosti i umjetnosti"],
                 correctAnswer: "Leksikografski zavod Miroslav Krleža",
                 slika: "slike/lzmk.jpg",
                 opis_slike:"",
