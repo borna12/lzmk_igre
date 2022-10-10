@@ -293,7 +293,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
-                question: "Koju je ustanovu utemeljio Kreleža 5. listopada 1950.?",
+                question: "Koju je ustanovu utemeljio Krleža 5. listopada 1950.?",
                 answers: ["Leksikografski zavod Miroslav Krleža", "Nacionalnu i sveučilišnu knjižnicu","Društvo hrvatskih književnika","Hrvatsku akademiju znanosti i umjetnosti"],
                 correctAnswer: "Leksikografski zavod Miroslav Krleža",
                 slika: "slike/lzmk.jpg",
