@@ -240,7 +240,7 @@ $(document).ready(function () {
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
                 opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine na mali trg na kojem se preko dana prodaje cvijeće.",
-                opis: "Balade Petrice Kerempuha zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
+                opis: "<em>Balade Petrice Kerempuha</em> zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
@@ -280,7 +280,7 @@ $(document).ready(function () {
                 correctAnswer: "Povratak Filipa Latinovicza",
                 slika: "",
                 opis_slike:"",
-                opis: "Povratak Filipa Latinovicza, roman objavljen prvi put u Zagrebu 1932. Pojedini njegovi dijelovi pisani su, sudeći prema Krležinim pismima J. Benešiću i Benešićevim sjećanjima, u Pragu i Varšavi. Tijekom vremena roman Povratak Filipa Latinovicza postao je reprezentativnim djelom Krležine umjetnosti i pravim interpretacijskim izazovom za mnoge kritičare i teoretičare iz zemlje i iz svijeta. Nije stoga nimalo čudno što u sveukupnoj literaturi o Krležinu djelu tom tekstu pripada jedno od vodećih mjesta.",
+                opis: "<em>Povratak Filipa Latinovicza</em>, roman objavljen prvi put u Zagrebu 1932. Pojedini njegovi dijelovi pisani su, sudeći prema Krležinim pismima J. Benešiću i Benešićevim sjećanjima, u Pragu i Varšavi. Tijekom vremena roman <em>Povratak Filipa Latinovicza</em> postao je reprezentativnim djelom Krležine umjetnosti i pravim interpretacijskim izazovom za mnoge kritičare i teoretičare iz zemlje i iz svijeta. Nije stoga nimalo čudno što u sveukupnoj literaturi o Krležinu djelu tom tekstu pripada jedno od vodećih mjesta.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=842"
             },{
@@ -289,7 +289,7 @@ $(document).ready(function () {
                 correctAnswer: "Zastave",
                 slika: "",
                 opis_slike:"",
-                opis: "Zastave, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljen je tekstovni materijal prve knjige romana.",
+                opis: "<em>Zastave</em>, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljen je tekstovni materijal prve knjige romana.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
