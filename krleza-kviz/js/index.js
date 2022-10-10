@@ -188,7 +188,7 @@ $(document).ready(function () {
             },
 
             {
-                question: "Koji su Krležini romani ispripovijedani u prvome licu?",
+                question: "Koji Krležin roman je ispripovijedan u prvome licu?",
                 answers: ["Povratak Filipa Latinovicza", "Na rubu pameti","Banket u Blitvi","Zastave"],
                 correctAnswer: "Na rubu pameti",
                 slika: "",
@@ -244,7 +244,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
-                question: "Koje knjige spadaju U ciklus knjiga o Glembajevima?",
+                question: "Koje knjige spadaju u ciklus knjiga o Glembajevima?",
                 answers: ["U agoniji, Gospoda Glembajevi, Leda", "Golgota, Gospoda Glembajevi, Leda","U agoniji, Gospoda Glembajevi, Golgota","Legende, Gospoda Glembajevi, Vučjak"],
                 correctAnswer: "U agoniji, Gospoda Glembajevi, Leda",
                 slika: "slike/glembaj.jpg",
@@ -310,7 +310,7 @@ $(document).ready(function () {
                 opis_slike:"",
                 opis: "Festival se svake godine odvija početkom srpnja u Zagrebu te se na njemu izvode predstave temeljene na Krležinim djelima, održavaju predavanja o Krleži i organiziraju obilasci Zagreba tematski povezani s Krležinim životom i djelom. 7. srpnja u 7 sati svake godine, u sklopu Festivala, organizira se Rođendan kod Krleže u povodu proslave pi&scaron;čeva rođendana.",
                 boja_pozadine: "#FCE4EC",
-                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             }
 
             ];
