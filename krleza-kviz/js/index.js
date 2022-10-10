@@ -204,7 +204,7 @@ $(document).ready(function () {
                 correctAnswer: "Plamen",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Plamen &ndash; polumjesečnik</em> za sve kulturne probleme prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić. Tiskan je vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
+                opis: "<em>Plamen &ndash; polumjesečnik za sve kulturne probleme</em> prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić. Tiskan je vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1997"
             },
