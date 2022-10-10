@@ -160,9 +160,9 @@ $(document).ready(function () {
                 question: "Koje je godine rođen Miroslav Krleža?",
                 answers: ["1893.", "1892.","1891.","1890."],
                 correctAnswer: "1893.",
-                slika: "slike/roden.jpg",
+                slika: "",
                 opis_slike:"",
-                opis: "Miroslav Milan Krleža rođen je 7. VII. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođenje u Petrovoj ulici 4; međutim, sam je K. više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
+                opis: "Miroslav Milan Krleža rođen je 7. VII. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je K. više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             },
@@ -188,7 +188,7 @@ $(document).ready(function () {
             },
 
             {
-                question: "Koji je Krležin roman ispripovijedan u prvome licu?",
+                question: "Koji su Krležini romani ispripovijedani u prvome licu?",
                 answers: ["Povratak Filipa Latinovicza", "Na rubu pameti","Banket u Blitvi","Zastave"],
                 correctAnswer: "Na rubu pameti",
                 slika: "",
@@ -197,14 +197,14 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=636"
             },
-            
+           
             {
-                question: "Koji je prvi Krležin časopis, koji je uređivao s Augustom Cesarcem?",
+                question: "Koji je prvi Krležin časopis koji je uređivao s Augustom Cesarcem?",
                 answers: ["Plamen", "Danas","Pečat","Forum"],
                 correctAnswer: "Plamen",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Plamen &ndash; polumesečnik</em> za sve kulturne probleme, prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić, a tiskao, vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
+                opis: "<em>Plamen &ndash; polumesečnik</em> za sve kulturne probleme prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić. Tiskan je vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1997"
             },
@@ -232,29 +232,29 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=748"
             },
-            
-            
+           
+           
             {
                 question: "Koja se zbirka pjesama Miroslava Krleže objavljena 1936. godine u Ljubljani smatra jednom od najvećih djela hrvatske književnosti?",
                 answers: ["Balade Petrice Kerempuha", "Baraka pet be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
-                opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine na malen trg na kojem se preko dana prodaje cvijeće.",
-                opis: "Balade Petrice Kerempuha su zbirka kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izadno je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najdovršenije autorovo književno djelo.",
+                opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine na mali trg na kojem se preko dana prodaje cvijeće.",
+                opis: "Balade Petrice Kerempuha zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najdovršenije autorovo književno djelo.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
-                question: "Koje knjige spadaju pod ciklus knjiga o Glembajevima?",
+                question: "Koje knjige spadaju U ciklus knjiga o Glembajevima?",
                 answers: ["U agoniji, Gospoda Glembajevi, Leda", "Golgota, Gospoda Glembajevi, Leda","U agoniji, Gospoda Glembajevi, Golgota","Legende, Gospoda Glembajevi, Vučjak"],
                 correctAnswer: "U agoniji, Gospoda Glembajevi, Leda",
                 slika: "slike/glembaj.jpg",
                 opis_slike:"Plakat za predstavu <em>Gospoda Glembajevi</em> u Narodnom kazalištu u Mariboru.",
-                opis: "Glembajevi, ciklus, skup od 14 tekstova (3 drame i 11 proza, koje autor sve naziva fragmentima), što ih je Krleža postupno objavljivao 1926-30. Tekstovi Gospoda Glembajevi, U agoniji i Leda su drame. ",
+                opis: "Glembajevi, ciklus, skup od 14 tekstova (3 drame i 11 proza, koje autor sve naziva fragmentima), što ih je Krleža postupno objavljivao 1926. – 1930. Tekstovi <em>Gospoda Glembajevi</em>, <em>U agoniji</em> i <em>Leda</em> su drame. ",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=340"
             },
-            
-            
+           
+           
             {
                 question: "Koga na kraju poznate Krležine drame <em>Gospoda Glembajevi</em> Leone Glembay ubije škarama?",
                 answers: ["barunicu Castelli", "Pubu Fabriczyja","Ignjata Glembaya","Alojzija Silberbrandta"],
@@ -266,20 +266,20 @@ $(document).ready(function () {
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=363"
             },
             {
-                question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobila 1946.?",
+                question: "Kako se zove Krležina zbirka pripovijetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobila 1946.?",
                 answers: ["Hrvatski bog Mars", "Hrvatska rapsodija","Iz zapisa jednog ratnika","Na samrti"],
                 correctAnswer: "Hrvatski bog Mars",
-                slika: "slike/mars.jpg",
-                opis_slike:"Naslovnica prvog izdanja zbirke pripovijedaka <em>Hrvatski bog Mars</em> Miroslava Krleže iz 1922.",
-                opis: "Hrvatski bog Mars, ciklus o hrvatskim domobranima u I. svj. ratu. Pod naslovom Hrvatski bog Mars izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s opaskom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova te samom Napomenom), pa se može smatrati konačnom redakcijom.",
+                slika: "",
+                opis_slike:"",
+                opis: "Hrvatski bog Mars, ciklus o hrvatskim domobranima u I. svj. ratu. Pod naslovom Hrvatski bog Mars izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=402"
             },{
                 question: "Koji se roman iz 1932. smatra  prvim cjelovitim modernim romanom u hrvatskoj književnosti?",
                 answers: ["Povratak Filipa Latinovicza", "Poplava","Tri kavaljera frajle Melanije","Gospoda Glembajevi"],
                 correctAnswer: "Povratak Filipa Latinovicza",
-                slika: "slike/filip.jpg",
-                opis_slike:"Roman u prvom izdanju iz 1932., Minerva, Zagreb.",
+                slika: "",
+                opis_slike:"",
                 opis: "Povratak Filipa Latinovicza, roman objavljen prvi put u Zagrebu 1932. Pojedini njegovi dijelovi pisani su, sudeći prema Krležinim pismima J. Benešiću i Benešićevim sjećanjima, u Pragu i Varšavi. Tijekom vremena roman Povratak Filipa Latinovicza postao je reprezentativnim djelom Krležine umjetnosti i pravim interpretacijskim izazovom za mnoge kritičare i teoretičare iz zemlje i iz svijeta. Nije stoga nimalo čudno što u sveukupnoj literaturi o Krležinu djelu tom tekstu pripada jedno od vodećih mjesta.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=842"
@@ -287,9 +287,9 @@ $(document).ready(function () {
                 question: "Kako se zove posljednji roman Miroslava Krleže koji je izdan u pet knjiga u razdoblju od 1962. do 1976.? ",
                 answers: ["Zastave", "Poplava","Tri kavaljera frajle Melanije","Bobočka"],
                 correctAnswer: "Zastave",
-                slika: "slike/Zastave.jpg",
-                opis_slike:"Naslovnica romana <em>Zastave</em> Miroslava Krleže.",
-                opis: "Zastave, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljenje tekstovni materijal prve knjige romana.",
+                slika: "",
+                opis_slike:"",
+                opis: "Zastave, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljen je tekstovni materijal prve knjige romana.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
@@ -312,6 +312,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
             }
+
             ];
         }
        
@@ -347,6 +348,19 @@ $(document).ready(function () {
             answerDivD.show()
         };
         slikica.hide()
+
+        if( quiz[questionCounter].correctAnswer=="s hrvatskim preporodom i modernom"){
+            $(".questions-page__answer-line").addClass("prored2")
+        }
+        else{
+            $(".questions-page__answer-line").removeClass("prored2")
+        }
+        if( quiz[questionCounter].correctAnswer=="Leksikografski zavod Miroslav Krleža" || quiz[questionCounter].correctAnswer=="U agoniji, Gospoda Glembajevi, Leda"){
+            $(".questions-page__answer-line").addClass("prored")
+        }
+        else{
+            $(".questions-page__answer-line").removeClass("prored")
+        }
         $("#opis").html("<em>" + quiz[questionCounter].question + "</em>")
         $(".definicija").html(quiz[questionCounter].question)
         $(".vrijeme").html('<progress value="60" max="60" id="pageBeginCountdown"><span id="pageBeginCountdownText">60</p>')
@@ -472,16 +486,12 @@ $(document).ready(function () {
         // Make correct answer green and add a checkmark
         highlightCorrectAnswerGreen();
         clearInterval(countdownTimer);
-        if(quiz[questionCounter].opis_slike==""){
-            $(".slikica2").hide()
-        }
-        else{$(".slikica2").show()}
         if (document.getElementById("pageBeginCountdown").value == "0") {
             $("#krivo")[0].play();
             bodovi -= 10;
-            swal({
+            Swal.fire({
                 title: "Isteklo je vrijeme.",
-                html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                 showCloseButton: true,
                 confirmButtonText: ' dalje',
                 backdrop: false,
@@ -492,13 +502,19 @@ $(document).ready(function () {
                 if (ide == 1) {
                     ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                 }
+                nastavi()
             })
             $(".swal2-close").click(function () {
                 clearInterval(countdownTimer)
                 if (ide == 1) {
                     ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                 }
+                nastavi()
             })
+
+            if(quiz[questionCounter].slika==""){
+                $("figure").hide()
+            }
         } else {
             // Evaluate if the user got the answer right or wrong
             if (userSelectedAnswer === correctAnswer) {
@@ -507,9 +523,9 @@ $(document).ready(function () {
                 bodovi += 10;
                 $("#tocno")[0].play();
                 broj = vrijeme + 10
-                swal({
+                Swal.fire({
                     title: "<span style='color:green'>Točno</span>",
-                    html: "<span>+" + broj + "</span><br><br><p class='opis'>" + quiz[questionCounter].opis + "</p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + "'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure></p>",
+                    html: "<span>+" + broj + "</span><br><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + "'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure></p>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,
@@ -520,20 +536,25 @@ $(document).ready(function () {
                     if (ide == 1) {
                         ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                     }
+                    nastavi()
                 })
                 $(".swal2-close").click(function () {
                     clearInterval(countdownTimer)
                     if (ide == 1) {
                         ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                     }
+                    nastavi()
                 })
+                if(quiz[questionCounter].slika==""){
+                    $("figure").hide()
+                }
             } else {
                 highlightIncorrectAnswerRed();
                 bodovi -= 10;
                 $("#krivo")[0].play();
-                swal({
+                Swal.fire({
                     title: " <span style='color:#bb422a' >Netočno</span>",
-                    html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong>.</p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                    html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,
@@ -544,18 +565,26 @@ $(document).ready(function () {
                     if (ide == 1) {
                         ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                     }
+                    nastavi()
                 })
                 $(".swal2-close").click(function () {
                     clearInterval(countdownTimer)
                     if (ide == 1) {
                         ProgressCountdown(60, 'pageBeginCountdown', 'pageBeginCountdownText').then(value => odgovor());
                     }
+                    nastavi()
                 })
+                if(quiz[questionCounter].slika==""){
+                    $("figure").hide()
+                }
+
+               
             }
         }
+      
         // Substitute the submit button for the continue button:
         submitBtn.hide(300);
-        nastavi()
+        
     }
     // Clicking on the submit button:
     function nastavi() {

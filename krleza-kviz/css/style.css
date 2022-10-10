@@ -109,7 +109,6 @@ body::before {
 #opis {
     text-align: center
 }
-.swal2-content span{font-size: 24px;}
 figcaption{font-size: 16px; margin-top:10px}
 .opis{font-size: 18px;text-align: justify;}
 h1,
@@ -129,7 +128,7 @@ form {
     margin-top: 20px;
 }
 
-
+.swal2-styled.swal2-confirm{background: #858858;}
 /* Container divs*/
 
 .init-page,
@@ -238,13 +237,14 @@ a.center{font-size: 18px;}
 .questions-page__selection-div {
     float: left;
     padding-left: 1rem;
-    font-size: 1.75rem;
+    font-size: 1.2rem;
 }
-
+.prored{line-height: 1.5;}
+.prored2{line-height:1.2;}
 .questions-page__feedback-div {
     float: right;
     padding-right: 1rem;
-    font-size: 2.5rem;
+    font-size: 1.2rem;
 }
 
 .odabir {
