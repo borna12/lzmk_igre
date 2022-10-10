@@ -172,7 +172,7 @@ $(document).ready(function () {
                 correctAnswer: "Isus Krist",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Legenda</em> je prva Krležina drama objavljena 1914. te ujedno i prvi njegov otisnuti tekst. Drama Legenda interpretacija je posljednjih Isusovih dana, na podlozi tekstova evanđelja. Kasnije je pridodana knjizi dramskih tekstova <em>Legende</em>, koja je objavljena 1933. te sadržava sljedeće dramske tekstove: <em>Legenda</em>, <em>Michelangelo</em> <em>Buonarroti</em>, <em>Kristofor</em> <em>Kolumbo</em>, <em>Maskerata</em>, <em>Kraljevo</em>, <em>Adam i Eva</em>.",
+                opis: "<em>Legenda</em> je prva Krležina drama objavljena 1914. te ujedno i prvi njegov otisnuti tekst. Drama <em>Legenda</em> interpretacija je posljednjih Isusovih dana, na podlozi tekstova evanđelja. Kasnije je pridodana knjizi dramskih tekstova <em>Legende</em>, koja je objavljena 1933. te sadržava sljedeće dramske tekstove: <em>Legenda</em>, <em>Michelangelo</em> <em>Buonarroti</em>, <em>Kristofor</em> <em>Kolumbo</em>, <em>Maskerata</em>, <em>Kraljevo</em>, <em>Adam i Eva</em>.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=533"
             },
