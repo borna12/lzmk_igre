@@ -165,7 +165,76 @@ $(document).ready(function () {
                 opis: "Miroslav Milan Krleža rođen je 7. VII. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođenje u Petrovoj ulici 4; međutim, sam je K. više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
-            },{
+            },
+            {
+                question: "Tko je glavni lik u prvoj objavljenoj Krležinoj drami <em>Legenda</em>?",
+                answers: ["Kristofor Kolumbo", "Juraj Križanić","Isus Krist","Michelangelo Buonarroti"],
+                correctAnswer: "Isus Krist",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Legenda</em> je prva Krležina objavljena drama objavljena 1914. te ujedno i prvi njegov otisnuti tekst. Drama Legenda interpretacija je posljednjih Isusovih dana, na podlozi tekstova evanđelja. Kasnije je pridodana knjizi dramskih tekstova <em>Legende</em>, koja je objavljena 1933. te sadržava sljedeće dramske tekstove: <em>Legenda</em>, <em>Michelangelo</em> <em>Buonarroti</em>, <em>Kristofor</em> <em>Kolumbo</em>, <em>Maskerata</em>, <em>Kraljevo</em>, <em>Adam i Eva</em>.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=533"
+            },
+            {
+                question: "Koja poznata Krležina antiratna novela započinje ironijskim prikazom grofa Maksimilijana Axelrodea i završava smrću studenta Vidovića?",
+                answers: ["Bitka kod Bistrice Lesne", "Baraka Pet Be","Domobran Jambrek","Tri domobrana"],
+                correctAnswer: "Baraka pet Be",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Baraka Pet Be</em> novela je koja je prvi put objavljena u Novoj Evropi&nbsp;1921., a zatim je uvr&scaron;tena u zbirku antiratnih novela <em>Hrvatski bog Mars</em> (Zagreb, 1922).",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
+            },
+
+            {
+                question: "Koji je Krležin roman ispripovijedan u prvome licu?",
+                answers: ["Povratak Filipa Latinovicza", "Na rubu pameti","Banket u Blitvi","Zastave"],
+                correctAnswer: "Na rubu pameti",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Na rubu pameti</em> četvrti je Krležin roman, prvi je put objavljen u Zagrebu 1938.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=636"
+            },
+            
+            {
+                question: "Koji je prvi Krležin časopis, koji je uređivao s Augustom Cesarcem?",
+                answers: ["Plamen", "Danas","Pečat","Forum"],
+                correctAnswer: "Plamen",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Plamen &ndash; polumesečnik</em> za sve kulturne probleme, prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić, a tiskao, vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1997"
+            },
+
+
+            {
+                question: "S kojim se književnim tradicijama Krleža obračunava u eseju <em>Hrvatska književna laž</em>?",
+                answers: ["s hrvatskim srednjovjekovljem i renesansom", "s hrvatskim barokom i klasicizmom","s hrvatskim prosvjetiteljstvom i predromantizmom","s hrvatskim preporodom i modernom"],
+                correctAnswer: "s hrvatskim preporodom i modernom",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Hrvatska književna laž</em> poznati je Krležin esej objavljen u prvome broju časopisa <em>Plamen</em> 1919. godine i može se smatrati avangardnim manifestom u kojemu Krleža kritički odbacuje književnost preporoda i hrvatske moderne te jugoslavenski nacionalizam, a kao pozitivne pojave izdvaja bogumile, Jurja Križanića i Silvija Strahimira Kranjčevića.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=398"
+            },
+
+
+            {
+                question: "Koji se od pjesničkih tekstova uvrštava među Krležine <em>Simfonije</em>?",
+                answers: ["Kaos", "Khevenhiller","Pan","Saloma"],
+                correctAnswer: "Pan",
+                slika: "",
+                opis_slike:"",
+                opis: "<em>Pan</em> je jedan od &scaron;est Krležinih duljih poetskih tekstova koji se pojavljuju u zbirci <em>Simfonije</em> (Zagreb, 1933). Izvorno je objavljen u samostalnom izdanju (Zagreb, 1917), s podnaslovom <em>Simfonijska pjesma</em>.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=748"
+            },
+            
+            
+            {
                 question: "Koja se zbirka pjesama Miroslava Krleže objavljena 1936. godine u Ljubljani smatra jednom od najvećih djela hrvatske književnosti?",
                 answers: ["Balade Petrice Kerempuha", "Baraka pet be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
                 correctAnswer: "Balade Petrice Kerempuha",
@@ -179,11 +248,24 @@ $(document).ready(function () {
                 answers: ["U agoniji, Gospoda Glembajevi, Leda", "Golgota, Gospoda Glembajevi, Leda","U agoniji, Gospoda Glembajevi, Golgota","Legende, Gospoda Glembajevi, Vučjak"],
                 correctAnswer: "U agoniji, Gospoda Glembajevi, Leda",
                 slika: "slike/glembaj.jpg",
-                opis_slike:"Plakat za predstavu Gospoda Glembajevi u Narodnom kazalištu u Mariboru.",
+                opis_slike:"Plakat za predstavu <em>Gospoda Glembajevi</em> u Narodnom kazalištu u Mariboru.",
                 opis: "Glembajevi, ciklus, skup od 14 tekstova (3 drame i 11 proza, koje autor sve naziva fragmentima), što ih je Krleža postupno objavljivao 1926-30. Tekstovi Gospoda Glembajevi, U agoniji i Leda su drame. ",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=340"
-            },{
+            },
+            
+            
+            {
+                question: "Koga na kraju poznate Krležine drame <em>Gospoda Glembajevi</em> Leone Glembay ubije škarama?",
+                answers: ["barunicu Castelli", "Pubu Fabriczyja","Ignjata Glembaya","Alojzija Silberbrandta"],
+                correctAnswer: "barunicu Castelli",
+                slika: "",
+                opis_slike:"",
+                opis: "Na kraju Krležine drame <em>Gospoda Glembajevi</em> možemo pročitati: Leone pojuri za barunicom Castelli sa &scaron;karama u ruci. Čuje se graja iza scene nakon koje istrčava sluga s riječima:&nbsp;<em>Gospon doktor zaklali su barunicu!</em>.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=363"
+            },
+            {
                 question: "Kako se zove Krležina zbirka pripovjetki antiratne i socijalne tematike koja je svoju konačnu redakciju dobila 1946.?",
                 answers: ["Hrvatski bog Mars", "Hrvatska rapsodija","Iz zapisa jednog ratnika","Na samrti"],
                 correctAnswer: "Hrvatski bog Mars",
@@ -219,6 +301,16 @@ $(document).ready(function () {
                 opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. X. 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod institucionaliziran kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://www.enciklopedija.hr/natuknica.aspx?ID=35937"
+            },
+            {
+                question: "U prvome tjednu kojega se mjeseca svake godine održava <em>Festival Miroslava Krleže</em>?",
+                answers: ["srpnja", "lipnja","svibnja","travnja"],
+                correctAnswer: "srpnja",
+                slika: "",
+                opis_slike:"",
+                opis: "Festival se svake godine odvija početkom srpnja u Zagrebu te se na njemu izvode predstave temeljene na Krležinim djelima, održavaju predavanja o Krleži i organiziraju obilasci Zagreba tematski povezani s Krležinim životom i djelom. 7. srpnja u 7 sati svake godine, u sklopu Festivala, organizira se Rođendan kod Krleže u povodu proslave pi&scaron;čeva rođendana.",
+                boja_pozadine: "#FCE4EC",
+                link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
             }
             ];
         }
@@ -380,6 +472,10 @@ $(document).ready(function () {
         // Make correct answer green and add a checkmark
         highlightCorrectAnswerGreen();
         clearInterval(countdownTimer);
+        if(quiz[questionCounter].opis_slike==""){
+            $(".slikica2").hide()
+        }
+        else{$(".slikica2").show()}
         if (document.getElementById("pageBeginCountdown").value == "0") {
             $("#krivo")[0].play();
             bodovi -= 10;
