@@ -271,7 +271,7 @@ $(document).ready(function () {
                 correctAnswer: "Hrvatski bog Mars",
                 slika: "",
                 opis_slike:"",
-                opis: "Hrvatski bog Mars, ciklus o hrvatskim domobranima u I. svj. ratu. Pod naslovom Hrvatski bog Mars izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
+                opis: "<em>Hrvatski bog Mars</em>, ciklus o hrvatskim domobranima u I. svj. ratu. Pod naslovom <em>Hrvatski bog Mars</em> izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=402"
             },{
