@@ -240,7 +240,8 @@ a.center{font-size: 18px;}
     font-size: 1.2rem;
 }
 .prored{line-height: 1.5;}
-.prored2{line-height:1.2;}
+.prored2{line-height: 1.5;
+    font-size: 22px;}
 .questions-page__feedback-div {
     float: right;
     padding-right: 1rem;
