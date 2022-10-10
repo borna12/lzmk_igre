@@ -178,7 +178,7 @@ $(document).ready(function () {
             },
             {
                 question: "Koja poznata Krležina antiratna novela započinje ironijskim prikazom grofa Maksimilijana Axelrodea i završava smrću studenta Vidovića?",
-                answers: ["Bitka kod Bistrice Lesne", "Baraka Pet Be","Domobran Jambrek","Tri domobrana"],
+                answers: ["Bitka kod Bistrice Lesne", "Baraka pet Be","Domobran Jambrek","Tri domobrana"],
                 correctAnswer: "Baraka pet Be",
                 slika: "",
                 opis_slike:"",
@@ -240,7 +240,7 @@ $(document).ready(function () {
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
                 opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine na mali trg na kojem se preko dana prodaje cvijeće.",
-                opis: "Balade Petrice Kerempuha zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najdovršenije autorovo književno djelo.",
+                opis: "Balade Petrice Kerempuha zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
