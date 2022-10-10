@@ -162,7 +162,7 @@ $(document).ready(function () {
                 correctAnswer: "1893.",
                 slika: "",
                 opis_slike:"",
-                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je K. više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
+                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je Krleža više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             },
@@ -178,11 +178,11 @@ $(document).ready(function () {
             },
             {
                 question: "Koja poznata Krležina antiratna novela započinje ironijskim prikazom grofa Maksimilijana Axelrodea i završava smrću studenta Vidovića?",
-                answers: ["Bitka kod Bistrice Lesne", "Baraka pet Be","Domobran Jambrek","Tri domobrana"],
-                correctAnswer: "Baraka pet Be",
+                answers: ["Bitka kod Bistrice Lesne", "Baraka pet be","Domobran Jambrek","Tri domobrana"],
+                correctAnswer: "Baraka pet be",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Baraka pet Be</em> novela je koja je prvi put objavljena u Novoj Evropi&nbsp;1921., a zatim je uvr&scaron;tena u zbirku antiratnih novela <em>Hrvatski bog Mars</em> (Zagreb, 1922).",
+                opis: "<em>Baraka pet be</em> novela je koja je prvi put objavljena u Novoj Evropi&nbsp;1921., a zatim je uvr&scaron;tena u zbirku antiratnih novela <em>Hrvatski bog Mars</em> (Zagreb, 1922).",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
             },
@@ -204,7 +204,7 @@ $(document).ready(function () {
                 correctAnswer: "Plamen",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Plamen &ndash; polumjesečnik za sve kulturne probleme</em> prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić. Tiskan je vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
+                opis: "<em>Plamen &ndash; polumjesečnik za sve kulturne probleme</em> prvi je Krležin časopis. Uređivali su ga August Cesarec i Krleža (odgovorni urednik), objavljivao ga je zagrebački <em>Jug</em> (pri kojem je u Ilici 7 bilo uredni&scaron;tvo i uprava), likovno ga je opremio Ljubo Babić. Tiskao ga je, vjerojatno u nakladi od dvije tisuće primjeraka, Hermes.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1997"
             },
@@ -239,7 +239,7 @@ $(document).ready(function () {
                 answers: ["Balade Petrice Kerempuha", "Baraka pet be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
-                opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine na mali trg na kojem se preko dana prodaje cvijeće.",
+                opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine.",
                 opis: "<em>Balade Petrice Kerempuha</em> zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
@@ -271,7 +271,7 @@ $(document).ready(function () {
                 correctAnswer: "Hrvatski bog Mars",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Hrvatski bog Mars</em>, ciklus o hrvatskim domobranima u I. svj. ratu. Pod naslovom <em>Hrvatski bog Mars</em> izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
+                opis: "<em>Hrvatski bog Mars</em>, ciklus o hrvatskim domobranima u I. svjetskom ratu. Pod naslovom <em>Hrvatski bog Mars</em> izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=402"
             },{
@@ -298,7 +298,7 @@ $(document).ready(function () {
                 correctAnswer: "Leksikografski zavod Miroslav Krleža",
                 slika: "slike/lzmk.jpg",
                 opis_slike:"",
-                opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. listopada. 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod institucionaliziran kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
+                opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. listopada 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod institucionaliziran kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://www.enciklopedija.hr/natuknica.aspx?ID=35937"
             },
