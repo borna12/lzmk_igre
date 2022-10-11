@@ -162,7 +162,7 @@ $(document).ready(function () {
                 correctAnswer: "1893.",
                 slika: "",
                 opis_slike:"",
-                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je Krleža više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983, 10-12) u stanu na I. katu u sedam sati ujutro.",
+                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je Krleža više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983., 10-12.) u stanu na I. katu u sedam sati ujutro.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             },
@@ -216,7 +216,7 @@ $(document).ready(function () {
                 correctAnswer: "s hrvatskim preporodom i modernom",
                 slika: "slike/hrv_knjizevna_laz.jpg",
                 opis_slike:"esej <em>Hrvatska književna laž</em> u časopisu <em>Plamen</em>, Zagreb 1919. br. 1.",
-                opis: "<em>Hrvatska književna laž</em> poznati je Krležin esej objavljen u prvome broju časopisa <em>Plamen</em> 1919. godine i može se smatrati avangardnim manifestom u kojemu Krleža kritički odbacuje književnost preporoda i hrvatske moderne te jugoslavenski nacionalizam, a kao pozitivne pojave izdvaja bogumile, Jurja Križanića i Silvija Strahimira Kranjčevića.",
+                opis: "<em>Hrvatska književna laž</em> poznati je Krležin esej objavljen u prvome broju časopisa <em>Plamen</em> 1919. godine i može se smatrati avangardnim manifestom u kojemu Krleža kritički odbacuje književnost preporoda i hrvatske moderne te jugoslavenski nacionalizam, a kao pozitivne izdvaja bogumile, Jurja Križanića i Silvija Strahimira Kranjčevića.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=398"
             },
@@ -228,7 +228,7 @@ $(document).ready(function () {
                 correctAnswer: "Pan",
                 slika: "slike/simfonije.jpg",
                 opis_slike:"<em>Simfonije</em>, Zagreb 1933. (ovitak u izdanju Minerve F. Bruck)",
-                opis: "<em>Pan</em> je jedan od &scaron;est Krležinih duljih poetskih tekstova koji se pojavljuju u zbirci <em>Simfonije</em> (Zagreb, 1933). Izvorno je objavljen u samostalnom izdanju (Zagreb, 1917), s podnaslovom <em>Simfonijska pjesma</em>.",
+                opis: "<em>Pan</em> je jedan od &scaron;est Krležinih duljih poetskih tekstova koji se pojavljuju u zbirci <em>Simfonije</em> (Zagreb, 1933.). Izvorno je objavljen u samostalnom izdanju (Zagreb, 1917.), s podnaslovom <em>Simfonijska pjesma</em>.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=748"
             },
@@ -240,7 +240,7 @@ $(document).ready(function () {
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
                 opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine.",
-                opis: "<em>Balade Petrice Kerempuha</em> zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenljivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
+                opis: "<em>Balade Petrice Kerempuha</em> zbirka su kajkavskih pjesama prvi put objavljena 1936. u Ljubljani. Drugo izdanje zbirke izdano je 1946. u Zagrebu te su dodane još četiri balade. Po strukturnim značajkama, po cjelovitosti i nepromjenjivosti kompozicije kao i po neznatnim intervencijama u prvotni tekst, Balade su najcjelovitije autorovo književno djelo.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
@@ -271,7 +271,7 @@ $(document).ready(function () {
                 correctAnswer: "Hrvatski bog Mars",
                 slika: "slike/mars.jpg",
                 opis_slike:"<em>Hrvatski bog Mars</em>, Zagreb 1922.",
-                opis: "<em>Hrvatski bog Mars</em>, ciklus o hrvatskim domobranima u I. svjetskom ratu. Pod naslovom <em>Hrvatski bog Mars</em> izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju Hrvatskog boga Marsa iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen Tumačem domobranskih i stranih riječi i pojmova i Napomenom), pa se može smatrati konačnom redakcijom.",
+                opis: "<em>Hrvatski bog Mars</em>, ciklus o hrvatskim domobranima u I. svjetskom ratu. Pod naslovom <em>Hrvatski bog Mars</em> izlaze od 1922. različito koncipirane knjige koje obuhvaćaju fragmente prethodno objavljene u časopisima ili drugim Krležinim knjigama, s napomenom o pripadnosti ciklusu ili bez nje. U Napomeni izdanju <em>Hrvatskog boga Marsa</em> iz 1946, koje standardizira ciklus od sedam fragmenata (upotpunjen <em>Tumačem domobranskih i stranih riječi i pojmova</em> i <em>Napomenom</em>), pa se može smatrati konačnom redakcijom.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=402"
             },{
@@ -491,7 +491,7 @@ $(document).ready(function () {
             bodovi -= 10;
             Swal.fire({
                 title: "Isteklo je vrijeme.",
-                html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                html: "<p style='text-align:center'><strong>Točan je odgovor : <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                 showCloseButton: true,
                 confirmButtonText: ' dalje',
                 backdrop: false,
@@ -554,7 +554,7 @@ $(document).ready(function () {
                 $("#krivo")[0].play();
                 Swal.fire({
                     title: " <span style='color:#bb422a' >Netočno</span>",
-                    html: "<p style='text-align:center'><strong>Točan odgovor je: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                    html: "<p style='text-align:center'><strong>Točan je odgovor : <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,

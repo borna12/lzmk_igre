@@ -55,11 +55,11 @@ body {
     justify-content: center;
     min-height: 480px;
     transition: background-color 1000ms linear;
-    background-image: url(../slike/pozadina.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../krleza-kip.jpg);
+    background-position: left top;
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 50% 50%;
 }
 
 
