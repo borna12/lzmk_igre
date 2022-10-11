@@ -227,7 +227,7 @@ $(document).ready(function () {
                 answers: ["Kaos", "Khevenhiller","Pan","Saloma"],
                 correctAnswer: "Pan",
                 slika: "slike/simfonije.jpg",
-                opis_slike:"<em>Simfonije</em>, Zagreb 1933. (Ovitak u izdanju Minerve F. Bruck)",
+                opis_slike:"<em>Simfonije</em>, Zagreb 1933. (ovitak u izdanju Minerve F. Bruck)",
                 opis: "<em>Pan</em> je jedan od &scaron;est Krležinih duljih poetskih tekstova koji se pojavljuju u zbirci <em>Simfonije</em> (Zagreb, 1933). Izvorno je objavljen u samostalnom izdanju (Zagreb, 1917), s podnaslovom <em>Simfonijska pjesma</em>.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=748"
