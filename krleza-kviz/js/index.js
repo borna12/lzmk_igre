@@ -178,17 +178,17 @@ $(document).ready(function () {
             },
             {
                 question: "Koja poznata Krležina antiratna novela započinje ironijskim prikazom grofa Maksimilijana Axelrodea i završava smrću studenta Vidovića?",
-                answers: ["Bitka kod Bistrice Lesne", "Baraka pet be","Domobran Jambrek","Tri domobrana"],
-                correctAnswer: "Baraka pet be",
+                answers: ["Bitka kod Bistrice Lesne", "Baraka Pet Be","Domobran Jambrek","Tri domobrana"],
+                correctAnswer: "Baraka Pet Be",
                 slika: "",
                 opis_slike:"",
-                opis: "<em>Baraka pet be</em> novela je koja je prvi put objavljena u Novoj Evropi&nbsp;1921., a zatim je uvr&scaron;tena u zbirku antiratnih novela <em>Hrvatski bog Mars</em> (Zagreb, 1922).",
+                opis: "<em>Baraka Pet Be</em> novela je koja je prvi put objavljena u Novoj Evropi&nbsp;1921., a zatim je uvr&scaron;tena u zbirku antiratnih novela <em>Hrvatski bog Mars</em> (Zagreb, 1922).",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=221"
             },
 
             {
-                question: "Koji Krležin roman je ispripovijedan u prvome licu?",
+                question: "Koji je Krležin roman ispripovijedan u prvome licu?",
                 answers: ["Povratak Filipa Latinovicza", "Na rubu pameti","Banket u Blitvi","Zastave"],
                 correctAnswer: "Na rubu pameti",
                 slika: "slike/pameti.jpg",
@@ -235,8 +235,8 @@ $(document).ready(function () {
            
            
             {
-                question: "Koja se zbirka pjesama Miroslava Krleže objavljena 1936. godine u Ljubljani smatra jednom od najvećih djela hrvatske književnosti?",
-                answers: ["Balade Petrice Kerempuha", "Baraka pet be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
+                question: "Koja se zbirka pjesama Miroslava Krleže objavljena 1936. godine u Ljubljani smatra jednim od najvećih djela hrvatske književnosti?",
+                answers: ["Balade Petrice Kerempuha", "Baraka Pet Be","Hrvatski bog Mars","Povratak Filipa Latinovicza"],
                 correctAnswer: "Balade Petrice Kerempuha",
                 slika: "slike/balade.jpg",
                 opis_slike:"Kip Petrice Kerempuha na Dolcu u Zagrebu, djelo kipara Vanje Radauša, postavljen 1955. godine.",
@@ -244,7 +244,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=218"
             },{
-                question: "Koje knjige spadaju u ciklus knjiga o Glembajevima?",
+                question: "Koje drame čine Krležinu dramsku trilogiju o Glembajevima?",
                 answers: ["U agoniji, Gospoda Glembajevi, Leda", "Golgota, Gospoda Glembajevi, Leda","U agoniji, Gospoda Glembajevi, Golgota","Legende, Gospoda Glembajevi, Vučjak"],
                 correctAnswer: "U agoniji, Gospoda Glembajevi, Leda",
                 slika: "slike/glembajevi.jpg",
@@ -284,7 +284,7 @@ $(document).ready(function () {
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=842"
             },{
-                question: "Kako se zove posljednji roman Miroslava Krleže koji je izdan u pet knjiga u razdoblju od 1962. do 1976.? ",
+                question: "Kako se zove posljednji roman Miroslava Krleže, koji je izdan u pet knjiga u razdoblju od 1962. do 1976.? ",
                 answers: ["Zastave", "Poplava","Tri kavaljera frajle Melanije","Bobočka"],
                 correctAnswer: "Zastave",
                 slika: "slike/zastave.jpg",
