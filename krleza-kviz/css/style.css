@@ -220,9 +220,7 @@ form {
     user-select: none;
     /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
+
 }
 
 .questions-page__answer-line {
@@ -234,15 +232,22 @@ form {
     margin-bottom: 20px;
     line-height: 1.5;
     padding: 5px;
+    height: 70px;
+    vertical-align: middle;
+    position: relative;
 }
+
+.questions-page__answer-line span{  margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
 .questions-page__selection-div {
     float: left;
     padding-left: 1rem;
     font-size: 1.2rem;
 }
-.prored{line-height: 1;}
-.prored2{line-height: 1;
-    }
+
 .questions-page__feedback-div {
     float: right;
     padding-right: 1rem;
