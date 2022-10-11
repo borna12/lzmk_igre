@@ -56,10 +56,10 @@ body {
     min-height: 480px;
     transition: background-color 1000ms linear;
     background-image: url(../krleza-kip.jpg);
-    background-position: left top;
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
     background-attachment: fixed;
+    background-position: 50% 50%;
 }
 
 
