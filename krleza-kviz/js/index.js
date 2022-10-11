@@ -355,7 +355,7 @@ $(document).ready(function () {
         else{
             $(".questions-page__answer-line").removeClass("prored2")
         }
-        if( quiz[questionCounter].correctAnswer=="Leksikografski zavod Miroslav Krleža" || quiz[questionCounter].correctAnswer=="U agoniji, Gospoda Glembajevi, Leda"){
+        if( quiz[questionCounter].correctAnswer=="Leksikografski zavod Miroslav Krleža" || quiz[questionCounter].correctAnswer=="U agoniji, Gospoda Glembajevi, Leda" || quiz[questionCounter].correctAnswer=="Balade Petrice Kerempuha"){
             $(".questions-page__answer-line").addClass("prored")
         }
         else{
