@@ -262,6 +262,18 @@ form {
     background: rgba(187, 222, 251, 0.3);
 }
 
+
+
+.questions-page--correct:hover li{
+    background: rgba(197, 225, 165, 1);
+}
+
+
+.questions-page--incorrect:hover li{
+    background: rgba(255, 158, 128, 1);
+}
+
+
 .odabir:hover {
     background: rgba(187, 222, 251, 0.65);
 }
@@ -270,12 +282,12 @@ form {
     background: #C5E1A5;
     border-radius: 5px;
 }
-.questions-page--correct .questions-page__answer-line{background: #C5E1A5;}
+.questions-page--correct li{background: #C5E1A5;}
 .questions-page--incorrect {
     background: #FF9E80;
 }
 
-.questions-page--incorrect .questions-page__answer-line{
+.questions-page--incorrect li{
     background: #FF9E80;
 }
 
@@ -310,8 +322,6 @@ form {
     margin-bottom: 1.5rem;
 }
 
-
-}
 
 .results-page__spanish-btn {
     margin-top: 3rem;
