@@ -232,6 +232,8 @@ form {
     border: 1px solid #bb422a;
     border-radius: 5px;
     margin-bottom: 20px;
+    line-height: 1.5;
+    padding: 5px;
 }
 .questions-page__selection-div {
     float: left;
