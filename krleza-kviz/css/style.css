@@ -109,7 +109,7 @@ body::before {
 #opis {
     text-align: center
 }
-figcaption{font-size: 16px; margin-top:10px}
+figcaption{ margin-top:10px}
 .opis{text-align: justify;}
 h1,
 h2,
