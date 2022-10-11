@@ -162,7 +162,7 @@ $(document).ready(function () {
                 correctAnswer: "1893.",
                 slika: "",
                 opis_slike:"",
-                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je Krleža više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, Forum, 1983., 10-12.) u stanu na I. katu u sedam sati ujutro.",
+                opis: "Miroslav Milan Krleža rođen je 7. srpnja. 1893. u Zagrebu u obitelji gradskoga redarstvenog nadstražara Miroslava i Ivke. Prema krsnom listu, rođen je u Petrovoj ulici 4; međutim, sam je Krleža više puta pred raznim sugovornicima taj podatak korigirao: zapravo je rođen u Dugoj ulici 5 (I. Hetrich, Dragutin Tadijanović na zagrebačkoj televiziji, <em>Forum</em>, 1983., 10-12.) u stanu na I. katu u sedam sati ujutro.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1747"
             },
@@ -289,7 +289,7 @@ $(document).ready(function () {
                 correctAnswer: "Zastave",
                 slika: "slike/zastave.jpg",
                 opis_slike:"ovitak <em>Zastave</em> iz 1967. u izdanju Zore koji je likovno opremio E. Murtić",
-                opis: "<em>Zastave</em>, roman koji je počeo izlaziti u Akademijinu časopisu Forum, 1962, 3-7/8. U pet nastavaka objavljen je tekstovni materijal prve knjige romana.",
+                opis: "<em>Zastave</em>, roman koji je počeo izlaziti u Akademijinu časopisu <em>Forum</em>, 1962., 3–7/8. U pet nastavaka objavljen je tekstovni materijal prve knjige romana.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://krlezijana.lzmk.hr/clanak.aspx?id=1200"
             },{
@@ -298,7 +298,7 @@ $(document).ready(function () {
                 correctAnswer: "Leksikografski zavod Miroslav Krleža",
                 slika: "slike/lzmk.jpg",
                 opis_slike:"",
-                opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. listopada 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod institucionaliziran kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
+                opis: "Leksikografski zavod Miroslav Krleža, središnja hrvatska leksikografska ustanova. Utemeljen je kao Leksikografski zavod FNRJ 5. listopada 1950. odlukom jugoslavenske vlade, 1962. preimenovan u Jugoslavenski leksikografski zavod, 1972. osnivačka su prava prenesena na Hrvatski sabor, 1991. uredbom Vlade RH dobio je sadašnje ime, a njegov ustroj i područje djelovanja uređeni su zakonom iz 2003. kojim je Zavod određen kao javna ustanova u djelatnosti leksikografije i enciklopedike od osobitog interesa za Republiku Hrvatsku.",
                 boja_pozadine: "#FCE4EC",
                 link:"https://www.enciklopedija.hr/natuknica.aspx?ID=35937"
             },
