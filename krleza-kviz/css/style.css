@@ -110,7 +110,7 @@ body::before {
     text-align: center
 }
 figcaption{font-size: 16px; margin-top:10px}
-.opis{font-size: 18px;text-align: justify;}
+.opis{text-align: justify;}
 h1,
 h2,
 h3,
@@ -201,7 +201,6 @@ form {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
-a.center{font-size: 18px;}
 .questions-page__answer-list {
     padding: 0;
     list-style-type: none;
@@ -324,7 +323,7 @@ a.center{font-size: 18px;}
 /* ----------------------------
 MEDIA QUERIES
 ---------------------------- */
-@media screen and (max-width: 600px) {    .opis{font-size: 12px}     .logo{max-height: 200px;} .questions-page__answer-list{margin-right: 5px; margin-left: 5px; }
+@media screen and (max-width: 600px) { .logo{max-height: 200px;} .questions-page__answer-list{margin-right: 5px; margin-left: 5px; }
 .btn{width: 80%;}
 }
 
