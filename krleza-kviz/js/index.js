@@ -491,7 +491,7 @@ $(document).ready(function () {
             bodovi -= 10;
             Swal.fire({
                 title: "Isteklo je vrijeme.",
-                html: "<p style='text-align:center'><strong>Točan je odgovor : <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                html: "<p style='text-align:center'><strong>Točan je odgovor: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</em></p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                 showCloseButton: true,
                 confirmButtonText: ' dalje',
                 backdrop: false,
@@ -554,7 +554,7 @@ $(document).ready(function () {
                 $("#krivo")[0].play();
                 Swal.fire({
                     title: " <span style='color:#bb422a' >Netočno</span>",
-                    html: "<p style='text-align:center'><strong>Točan je odgovor : <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
+                    html: "<p style='text-align:center'><strong>Točan je odgovor: <span style='color:#bb422a; ' >" + quiz[questionCounter].correctAnswer + "</span></strong></p><br><p class='opis'>" + quiz[questionCounter].opis + "</p><br><a class='center' href='"+quiz[questionCounter].link+"' target='_blank'>opširnije...</a><figure><img src='" + quiz[questionCounter].slika + " 'class='slikica2'/> <figcaption>"+quiz[questionCounter].opis_slike+"</figcaption></figure>",
                     showCloseButton: true,
                     confirmButtonText: ' dalje',
                     backdrop: false,
